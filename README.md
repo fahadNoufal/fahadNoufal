@@ -8,7 +8,7 @@ I build <b>production-grade AI systems</b> that combine <b>data science, machine
 </p>
 
 <p align="center">
-  <a href="https://github.com/FahadNoufal">
+  <a href="[https://github.com/FahadNoufal](https://fahadnoufal.github.io/portfolio/)">
     <img src="https://komarev.com/ghpvc/?username=FahadNoufal&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
   </a>
 </p>
@@ -142,18 +142,6 @@ I build **complete ML-backed applications**, not just models.
 - **Machine Learning Specialization – DeepLearning.AI**
   - Reinforcement Learning (Lunar Lander)
   - Recommendation Systems
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FahadNoufal&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FahadNoufal&theme=tokyonight" />
-</p>
 
 ---
 
